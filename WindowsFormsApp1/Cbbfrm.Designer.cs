@@ -42,9 +42,9 @@
 			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label1.Location = new System.Drawing.Point(30, 64);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(205, 36);
+			this.label1.Size = new System.Drawing.Size(297, 36);
 			this.label1.TabIndex = 0;
-			this.label1.Text = "Mã học viên :";
+			this.label1.Text = "Họ và tên học viên :";
 			// 
 			// label2
 			// 
@@ -71,7 +71,7 @@
 			// 
 			// txtMaHV
 			// 
-			this.txtMaHV.Location = new System.Drawing.Point(265, 77);
+			this.txtMaHV.Location = new System.Drawing.Point(326, 77);
 			this.txtMaHV.Name = "txtMaHV";
 			this.txtMaHV.Size = new System.Drawing.Size(201, 22);
 			this.txtMaHV.TabIndex = 4;
@@ -102,7 +102,7 @@
 			this.btnCancel.UseVisualStyleBackColor = false;
 			this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
 			// 
-			// Form2
+			// Cbbfrm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -114,7 +114,7 @@
 			this.Controls.Add(this.cbbKhoaHoc);
 			this.Controls.Add(this.label2);
 			this.Controls.Add(this.label1);
-			this.Name = "Form2";
+			this.Name = "Cbbfrm";
 			this.Text = "Form2";
 			this.ResumeLayout(false);
 			this.PerformLayout();

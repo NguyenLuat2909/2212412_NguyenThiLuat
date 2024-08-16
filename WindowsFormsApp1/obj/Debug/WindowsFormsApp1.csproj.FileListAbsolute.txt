@@ -7,6 +7,13 @@ D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Win
 D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
 D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cbbfrm.resources
 D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clbfrm.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tagfrm.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RTBfrm.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
