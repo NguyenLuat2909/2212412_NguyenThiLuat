@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace WindowsFormsApp1
 {
 	internal static class Program
@@ -16,7 +17,19 @@ namespace WindowsFormsApp1
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
+			Application.Run(new Cbbfrm());
+			Application.Run(new Clbfrm());
+			Application.Run(new Form1());
+			Application.Run(new Form2());
+			Application.Run(new Form3());
+			Application.Run(new Form4());
+			Application.Run(new Form5());
 			Application.Run(new Form6());
+			Application.Run(new Form7());
+			Application.Run(new Form8());
+			Application.Run(new Form9());
+			Application.Run(new RTBfrm());
+			Application.Run(new Tagfrm());
 		}
 	}
 }

@@ -32,9 +32,9 @@
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form5));
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.imlDemo = new System.Windows.Forms.ImageList(this.components);
-			this.cbbChonhinh = new System.Windows.Forms.ComboBox();
 			this.pbHinhanh = new System.Windows.Forms.PictureBox();
 			this.label1 = new System.Windows.Forms.Label();
+			this.cbbChonhinh = new System.Windows.Forms.ComboBox();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.pbHinhanh)).BeginInit();
 			this.SuspendLayout();
@@ -53,18 +53,12 @@
 			// imlDemo
 			// 
 			this.imlDemo.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imlDemo.ImageStream")));
-			this.imlDemo.TransparentColor = System.Drawing.Color.Transparent;
-			this.imlDemo.Images.SetKeyName(0, "9e41b8e0bc97e91f8f5f61d959fc5055.jpg");
-			this.imlDemo.Images.SetKeyName(1, "istockphoto-1348446031-612x612.jpg");
-			// 
-			// cbbChonhinh
-			// 
-			this.cbbChonhinh.FormattingEnabled = true;
-			this.cbbChonhinh.Location = new System.Drawing.Point(582, 12);
-			this.cbbChonhinh.Name = "cbbChonhinh";
-			this.cbbChonhinh.Size = new System.Drawing.Size(121, 24);
-			this.cbbChonhinh.TabIndex = 1;
-			this.cbbChonhinh.SelectedIndexChanged += new System.EventHandler(this.cbbChonhinh_SelectedIndexChanged);
+			this.imlDemo.TransparentColor = System.Drawing.Color.IndianRed;
+			this.imlDemo.Images.SetKeyName(0, "iml2.jpg");
+			this.imlDemo.Images.SetKeyName(1, "iml1.jpg");
+			this.imlDemo.Images.SetKeyName(2, "anh-nen-cute.jpg");
+			this.imlDemo.Images.SetKeyName(3, "sticker-meo-con-ngai-ngung.jpg");
+			this.imlDemo.Images.SetKeyName(4, "61d496d42674e5400b7b76562b7a2327.jpg");
 			// 
 			// pbHinhanh
 			// 
@@ -80,11 +74,20 @@
 			// 
 			this.label1.AutoSize = true;
 			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label1.Location = new System.Drawing.Point(360, 7);
+			this.label1.Location = new System.Drawing.Point(337, 12);
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(216, 29);
 			this.label1.TabIndex = 3;
 			this.label1.Text = "Chọn hình hiển thị :";
+			// 
+			// cbbChonhinh
+			// 
+			this.cbbChonhinh.FormattingEnabled = true;
+			this.cbbChonhinh.Location = new System.Drawing.Point(582, 12);
+			this.cbbChonhinh.Name = "cbbChonhinh";
+			this.cbbChonhinh.Size = new System.Drawing.Size(121, 24);
+			this.cbbChonhinh.TabIndex = 1;
+			this.cbbChonhinh.SelectedIndexChanged += new System.EventHandler(this.cbbChonhinh_SelectedIndexChanged);
 			// 
 			// Form5
 			// 
@@ -110,8 +113,8 @@
 
 		private System.Windows.Forms.PictureBox pictureBox1;
 		private System.Windows.Forms.ImageList imlDemo;
-		private System.Windows.Forms.ComboBox cbbChonhinh;
 		private System.Windows.Forms.PictureBox pbHinhanh;
 		private System.Windows.Forms.Label label1;
+		private System.Windows.Forms.ComboBox cbbChonhinh;
 	}
 }

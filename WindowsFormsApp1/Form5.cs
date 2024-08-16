@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace WindowsFormsApp1
 {
 	public partial class Form5 : Form
@@ -19,7 +20,7 @@ namespace WindowsFormsApp1
 
 		private void Form5_Load(object sender, EventArgs e)
 		{
-			for(int i=1;i<imlDemo.Images.Count;i++)
+			for(int i=1;i<=imlDemo.Images.Count;i++)
 			{
 				cbbChonhinh.Items.Add("Hình" + i);
 			}	

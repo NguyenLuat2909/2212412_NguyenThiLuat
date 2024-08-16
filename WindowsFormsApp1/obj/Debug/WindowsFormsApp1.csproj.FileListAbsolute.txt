@@ -17,3 +17,6 @@ D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Win
 D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
 D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RTBfrm.resources
 D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\WorkSpace\my_project\linupWeb\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
